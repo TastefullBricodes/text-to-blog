@@ -21,4 +21,4 @@ Step 6: Enter the text paragraph by paragraph
 
 Step 7: Once you have a new output, Copy and paste the text and send it to me on discord
 
-The output should start with <h1> and end with </p>
+The output should start with h1 and end with p in <>s or </>
