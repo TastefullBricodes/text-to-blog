@@ -21,6 +21,4 @@ Step 6: Enter the text paragraph by paragraph
 
 Step 7: Once you have a new output, Copy and paste the text and send it to me on discord
 
-The output should start with <h1> and end with </p> like this:
-
-<h1>Blog title</h1><h2>Subtitle</h2><h3>By Your name here</h3><p>What is Lorem Ipsum?</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+The output should start with <h1> and end with </p>
